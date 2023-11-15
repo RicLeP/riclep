@@ -3,7 +3,7 @@
 I’m co-founder & web director of U&US, a specialist branding and web design studio, creating great things for good brands – big and small. You can find us at https://uandus.co.uk
 
 
-- 🔭 I’m currently working on lots of projects for clients, my Laravel Storyblok packages and some secret projects.
+- 🔭 I’m currently working on lots of projects for clients, my Laravel Storyblok packages https://ls.sirric.co.uk and some secret projects.
 - 🌱 I’m currently learning at every opportunity!
 - 👯 I’m looking to collaborate on Laravel, Storyblok, cool stuff.
 - 🤔 I’m looking for help with getting better at dev and making useful tools and packages.
