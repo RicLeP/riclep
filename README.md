@@ -8,9 +8,9 @@ I’m co-founder & web director of U&US, a specialist branding and web design st
 - 👯 I’m looking to collaborate on Laravel, Storyblok, cool stuff.
 - 🤔 I’m looking for help with getting better at dev and making useful tools and packages.
 - 💬 Ask me about whatever you like.
-- 📫 How to reach me: ric@sirric.co.uk, Twitter @RicLeP
+- 📫 How to reach me: ric@sirric.co.uk, Twitter @RicLeP, Bluesky [https://bsky.app/profile/riclep.dev]
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a podcast about history, science, the every day and interviews that I create with my son: https://thecuriosityofachild.com/
+- ⚡ Fun fact: I have a podcast about history, science, the every day and interviews that I create with my son: [https://thecuriosityofachild.com/](https://curiosityofpod.com/)
 
 <!--
 **RicLeP/riclep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
